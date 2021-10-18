@@ -1,0 +1,27 @@
+.flag{
+    width: 320px;
+    height: 200px;
+}
+
+.flag-container{
+    width: 320px;
+    height: 440px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow:hidden;
+}
+
+p{
+    font-size: 17px;
+    padding: 10px 20px 0 15px;
+}
+
+h3{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.space{
+    padding: 50px; 
+}
